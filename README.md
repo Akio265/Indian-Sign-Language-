@@ -20,7 +20,7 @@ Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/Akio265/Indian-Sign-Language.git
+git clone https://github.com/Akio265/Indian-Sign-Language-.git
 Install the required libraries:
 bash
 Copy code
